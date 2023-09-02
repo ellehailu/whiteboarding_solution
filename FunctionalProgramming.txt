@@ -13,7 +13,7 @@ function Compressed(stringInput){
 			else{
 				output = output + stringInput[i]
 			}
-			count  = 1 c
+			count  = 1
 		}
 	}
 	return output 
